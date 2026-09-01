@@ -1,2 +1,2 @@
-# Throughtworks
+# Thoughtworks
  practices in Intenship
